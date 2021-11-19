@@ -1,6 +1,6 @@
-<form action="action_page.php">
+i<form action="action_page.php">
   <div class="container">
-    <h1><i>Welcome to new world</i/</h1>
+    <h1><i>Welcome to new world of Complete CI/CD Deployment</i/</h1>
     <h1><b><i>Jenkins-Ansible App</i></b></h>
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
